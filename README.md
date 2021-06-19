@@ -10,4 +10,4 @@ This is a web application built without starter code that acts as a professional
 
 
 
- https://janeeart.github.io/Janee-Artis-Portfolio-New/
+ https://janeeart.github.io/Janee-Artis-Portfolio-New/newPortfolio.html
