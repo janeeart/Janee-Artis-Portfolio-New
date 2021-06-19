@@ -1,0 +1,47 @@
+* {
+    font-family: 'Merriweather', serif;
+}
+
+body { 
+    background-color: #DED0F5;
+    color: #003B4A
+}
+
+h2 {
+    font-family: 'Sacramento', cursive; 
+}
+
+h1 {
+    font-family: 'Sacramento', cursive; 
+}
+
+.My-image
+    {
+        height: 500px;
+        width: 370px;
+    }
+
+.title {
+    padding: 4%;
+
+    animation-name: moveFromLeft;
+    animation-duration: 1s;
+    animation-timing-function: ease-out;
+}
+
+@keyframes moveFromLeft {
+    0% {
+        opacity: 0;
+        transform: translateX(-200px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+.project-image 
+    {
+        height: 150px;
+        width: 250px;
+    }
